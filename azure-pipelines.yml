@@ -8,7 +8,7 @@ trigger:
       - README.md
 
 pool:
-  vmImage: 'windows-latest'
+  vmImage: 'BT'
 
 # abc
 # some changes
